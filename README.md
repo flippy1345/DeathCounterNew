@@ -1,0 +1,2 @@
+# DeathCounterNew
+Plugin for Spigot
